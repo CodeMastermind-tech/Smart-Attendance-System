@@ -1,6 +1,6 @@
 # Smart-Attendance-System
 🌐 Live Site
-codemastermind-tech.github.io/Smart-Attendance-System
+https://codemastermind-tech.github.io/Smart-Attendance-System/
 Ek click mein attendance mark — koi app install karne ki zaroorat nahi!
 </div>
 
